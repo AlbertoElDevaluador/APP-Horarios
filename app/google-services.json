@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "852626227661",
+    "project_id": "app-esi2",
+    "storage_bucket": "app-esi2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852626227661:android:9f4e9c3abdcfdf96c98484",
+        "android_client_info": {
+          "package_name": "com.example.app1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852626227661-j7ckj6u7ap1ogv02mrdieturuvc9dcfq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_gcVdQHV0D1diOhhPfVCmFpT3NU4_WWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852626227661-j7ckj6u7ap1ogv02mrdieturuvc9dcfq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
